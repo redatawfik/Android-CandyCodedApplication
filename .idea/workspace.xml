@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,11 +30,6 @@
         <projects_view />
       </state>
     </system>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>response</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +56,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -64,6 +67,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -145,6 +164,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
@@ -172,22 +192,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="806" y="428" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601336455631" />
-    <state width="1340" height="226" key="GridCell.Tab.0.bottom" timestamp="1601336914421">
+    <state width="1340" height="226" key="GridCell.Tab.0.bottom" timestamp="1601338173771">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="226" key="GridCell.Tab.0.bottom/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601336914421" />
-    <state width="1340" height="226" key="GridCell.Tab.0.center" timestamp="1601336914420">
+    <state width="1340" height="226" key="GridCell.Tab.0.bottom/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601338173771" />
+    <state width="1340" height="226" key="GridCell.Tab.0.center" timestamp="1601338173771">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="226" key="GridCell.Tab.0.center/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601336914420" />
-    <state width="1340" height="226" key="GridCell.Tab.0.left" timestamp="1601336914420">
+    <state width="1340" height="226" key="GridCell.Tab.0.center/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601338173771" />
+    <state width="1340" height="226" key="GridCell.Tab.0.left" timestamp="1601338173771">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="226" key="GridCell.Tab.0.left/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601336914420" />
-    <state width="1340" height="226" key="GridCell.Tab.0.right" timestamp="1601336914421">
+    <state width="1340" height="226" key="GridCell.Tab.0.left/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601338173771" />
+    <state width="1340" height="226" key="GridCell.Tab.0.right" timestamp="1601338173771">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="226" key="GridCell.Tab.0.right/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601336914421" />
+    <state width="1340" height="226" key="GridCell.Tab.0.right/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601338173771" />
     <state x="459" y="181" key="SettingsEditor" timestamp="1601336566524">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -196,5 +216,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="654" y="363" key="com.intellij.ide.util.TipDialog/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601336782972" />
+    <state x="815" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1601337674582">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="815" y="270" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1601337674582" />
   </component>
 </project>
